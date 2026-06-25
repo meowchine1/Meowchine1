@@ -1,6 +1,6 @@
-# Embedded Software Engineer
+# Embedded Firmware Developer
 
-Embedded software engineer with experience in developing firmware for industrial, medical, and IoT devices.
+Firmware Developer with experience in developing firmware for industrial, medical, and IoT devices.
 
 MSc in Mathematical Software and Information Systems Administration (Russia)
 
